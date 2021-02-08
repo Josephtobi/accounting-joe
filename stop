@@ -1,0 +1,41 @@
+[33mcommit 9fa035263e24a8af4bf92ea2ae26a53e3c90c871[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: joe <joe@localhost.localdomain>
+Date:   Sun Feb 7 13:58:17 2021 +0100
+
+    moving project to github
+
+[33mcommit e748e4d7e403ca52f3759b3b83a92ffb5daece56[m
+Author: joe <joe@localhost.localdomain>
+Date:   Wed Feb 3 14:58:02 2021 +0100
+
+    new upload 5
+
+[33mcommit 7e04906775087d2dae220476ec93dbe9d2b982a9[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: joe <joe@localhost.localdomain>
+Date:   Wed Feb 3 14:53:09 2021 +0100
+
+    new upload 4
+
+[33mcommit febd6c63872d2a85e9cd37bda1470cdbc181b3ca[m
+Author: joe <joe@localhost.localdomain>
+Date:   Wed Feb 3 14:48:44 2021 +0100
+
+    new upload 3
+
+[33mcommit e51f214304ccac04e2836aa6119f6efb7f9441f2[m
+Author: joe <joe@localhost.localdomain>
+Date:   Wed Feb 3 14:42:49 2021 +0100
+
+    new upload 2
+
+[33mcommit 1fe659feae21175a08f8a34d5d132cc1be2e17c9[m
+Author: joe <joe@localhost.localdomain>
+Date:   Wed Feb 3 14:37:46 2021 +0100
+
+    new upload
+
+[33mcommit 9fe5b889e5348c23e1a4d0bab6f4850ad9931eca[m
+Author: joe <joe@localhost.localdomain>
+Date:   Wed Feb 3 13:53:58 2021 +0100
+
+    deploying to heroku
